@@ -1,0 +1,10 @@
+Stay Safe Online: 8 Tips for College Students
+
+1. Verify UPI Requests: Never enter your UPI PIN to receive money; a PIN is strictly for sending money or checking your balance.
+2. Avoid Unknown QR Codes: Do not scan random QR codes sent via WhatsApp or found on flyers for making unverified payments.
+3. Use Official Apps: Only contact customer support through official apps or verified websites; never trust numbers found via random search     engine results.
+4. Enable Two-Factor Authentication (2FA): Turn on 2FA for all your college, email, and social media accounts to prevent unauthorized access.
+5. Beware of Phishing Emails: Check the sender's actual email address before clicking links, especially if they claim your student account will be locked.
+6. Use Strong, Unique Passwords: Do not use the same password for your university portal and your social media or banking apps.
+7. Update Software: Keep your phone’s OS and banking apps updated to ensure you have the latest security patches.
+8. Report Incidents Immediately: If you are a victim of cybercrime, report it immediately to the National Cyber Crime Portal at cybercrime.gov.in and call the Helpline 1930.
