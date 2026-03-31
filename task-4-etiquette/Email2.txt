@@ -1,0 +1,17 @@
+Subject: Summer Internship Inquiry: Data Science & AI - Sohil Chavhan
+
+Dear Sir,
+
+I hope this email finds you well.
+
+My name is Sohil Chavhan, and I am a First Year B.Tech student in Artificial Intelligence and Machine Learning at VIT Bhopal University. I am writing to express my strong interest in a summer internship opportunity with Infotech's data analytics team.
+
+Over the past year, I have actively developed my programming skills, working extensively with Python, pandas, and scikit-learn to build optimized machine learning pipelines. Recently, I completed independent projects focused on forecasting seasonal demand trends and analyzing healthcare datasets. I am eager to bring my foundational technical skills and problem-solving mindset to your team, while learning from your industry experts.
+
+I have attached my resume and provided a link to my GitHub repository for your review. I would welcome the opportunity to discuss how my background aligns with your current projects.
+
+Thank you for your time and consideration.
+
+Best regards,
+
+Sohil Chavhan
