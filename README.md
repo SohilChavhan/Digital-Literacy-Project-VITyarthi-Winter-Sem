@@ -34,4 +34,4 @@ Here is a breakdown of the five tasks completed for this project:
 
 ## Final Project Report
 * **Summary:** A full written report documenting my work, observations, and reflections across all five tasks.
-* **Link:** [`report/Project_Report.pdf`](./report/Project_Report.pdf)
+* **Link:** [`report/Project_Report.pdf`](./report.pdf)
