@@ -26,7 +26,7 @@ Here is a breakdown of the five tasks completed for this project:
 
 * **Task 4: Professional Email & Etiquette Guide (Module 4)**
     * **Summary:** Drafts of two professional emails (an extension request and an internship inquiry) and a "Do's and Don'ts" checklist for responsible social media use.
-    * **Link:** [`task-4-email-etiquette/`](./task-4-email-etiquette/)
+    * **Link:** [`task-4-email-etiquette/`](./task-4-etiquette/)
 
 * **Task 5: Cybercrime Awareness Case Study & Prevention Guide (Module 5)**
     * **Summary:** A case study on UPI/Online Payment Fraud and an actionable 8-point 'Stay Safe Online' prevention checklist.
